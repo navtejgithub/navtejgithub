@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @navtejgithub
 - 👀 I’m interested in Java Developer
-- 🌱 I’m currently learning ..
+- 🌱 I’m currently learning Java Full Stack
 - 💞️ I’m looking to Work as a Java Developer
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me navtejp1@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
